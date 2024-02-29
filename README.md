@@ -11,6 +11,10 @@ There are also a NewsLetter for users for latest news or latest updates, like th
 SO this how our tech curious website represent our Virtual - Zoo 
 
 
+link for the flow chart
+https://docs.google.com/document/d/17OKzCmtkZCxYbGkGwe6Eytoe0S4zwaG3gggqKqZFGJM/edit?usp=drivesdk
+
+
 
 
 
