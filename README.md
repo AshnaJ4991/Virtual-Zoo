@@ -2,7 +2,7 @@
 Our Team Tech Curious are here to make a website on the topic of Virtual -Zoo on the Question on CBP40.
 So first we make a login page in it to describe there u have to login by set your email and  set password.
 Or further there are many options for our users like home page, about page, gallery page, Animal , plants, pricing, Contact .
-Also we add many photos in our website to make our website more attractive and user friendly .
+Also we add many photos in our website to make our website more attractiveand we try to give a experience of like a real zoo and give  user friendly experience.
 Also there are pricing system in our website for individuals , school systems and Family .
 there are much information we ARE GOING TO UPLOAD on the same so the one who come on our website they get something different and knowledgeable.
 There is contact page in website to send messages, by which anyone wants to contact us, they can easily get into touch with with us. 
