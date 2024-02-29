@@ -1,5 +1,5 @@
 # Virtual-Zoo
-Our Team Tech Curious are here to make a website on the topic of Virtual -Zoo on the Question on CBP40.
+Our Team Tech Curious with team id CB271 are here to make a website on the topic of Virtual -Zoo on the Question on CBP40.
 So first we make a login page in it to describe there u have to login by set your email and  set password.
 Or further there are many options for our users like home page, about page, gallery page, Animal , plants, pricing, Contact .
 Also we add many photos in our website to make our website more attractiveand we try to give a experience of like a real zoo and give  user friendly experience.
